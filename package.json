@@ -1,0 +1,21 @@
+{
+  "name": "rizki",
+  "version": "0.0.1",
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "bson": "^4.2.2",
+    "express": "^2.5.8",
+    "jade": "^0.20.3",
+    "mongodb": "^3.6.3",
+    "pug": "^3.0.0",
+    "require-optional": "^0.4.0"
+  },
+  "description": "ajdflaj;",
+  "main": "my-web-server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
